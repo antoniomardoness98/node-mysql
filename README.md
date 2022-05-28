@@ -1,5 +1,7 @@
 # node-mysql
 Crud muy simple para empezar a comprender el termino de api rest
+El tutorial fue realizado gracias al canal de dominicode
+https://www.youtube.com/watch?v=zsnHIlsUPSU
 
 # pasos para utilizar la aplicación
 
